@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2021
 'Say My Name
-'https://github.com/PeckBray/SayMyName
+'https://github.com/PeckBray/SayMyNameAgain
 Option Strict On
 Option Explicit On
 Module Module1
